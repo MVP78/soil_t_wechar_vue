@@ -1,0 +1,1 @@
+<view><view class="uni-margin-wrap"><swiper class="swiper" circular indicator-dots="{{b}}" autoplay="{{c}}" interval="{{d}}" duration="{{e}}"><view wx:for="{{a}}" wx:for-item="item" wx:key="b" class="swiper-item"><swiper-item><image src="{{item.a}}"></image></swiper-item></view></swiper></view><view class="toSoil" bindtap="{{f}}"><text>以了解流程，我要采土</text></view></view>

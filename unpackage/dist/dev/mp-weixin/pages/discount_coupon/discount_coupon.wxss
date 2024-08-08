@@ -1,0 +1,89 @@
+
+.top {
+		margin-bottom: 20rpx;
+		height: 96rpx;
+		color: #989898;
+		background-color: #fff;
+		letter-spacing: 0.1em;
+}
+.contentNull {
+		padding: 72rpx 0;
+		margin-top: 0rpx;
+		text-align: center;
+
+		border-radius: 40rpx;
+}
+.nullText {
+		font-size: 67rpx;
+		font-weight: 700;
+		color: #a8a8a8;
+		margin-top: 56rpx;
+}
+.coupon {
+		margin: 32rpx 25rpx 0 0;
+		font-size: 26rpx;
+		float: right;
+}
+.couponList {
+		margin: 0 20rpx;
+}
+.item {
+		padding: 20rpx 0;
+		margin-bottom: 20rpx;
+		background-color: #fff;
+		border-bottom: 4rpx solid #757575;
+		border-right: 4rpx solid #757575;
+		border-radius: 20rpx;
+}
+.item .itemLeft {
+		display: inline-block;
+		margin: 20rpx;
+}
+.item image {
+		width: 120rpx;
+		height: 120rpx;
+		vertical-align: middle;
+}
+.item .itemCenter {
+		display: inline-block;
+		width: 384rpx;
+		vertical-align: middle;
+}
+.item .itemCenter text {
+		display: block;
+}
+.time {
+		font-size: 24rpx;
+		margin-top: 24rpx;
+		color: #888;
+}
+.item .itemRight {
+		display: inline-block;
+		vertical-align: middle;
+}
+.item .itemRight text {
+		display: inline-block;
+		font-size: 36rpx;
+		font-weight: 700;
+		color: red;
+		margin-bottom: 20rpx;
+		margin-left: 16rpx;
+}
+.button {
+		width: 142rpx;
+		height: 60rpx;
+		line-height: 60rpx;
+		text-align: center;
+		background-color: red;
+		color: #fff;
+		border-radius: 32rpx;
+}
+.buttonend {
+		width: 142rpx;
+		height: 60rpx;
+		line-height: 60rpx;
+		text-align: center;
+		background-color: #ff7b7b;
+		color: #fff;
+		border-radius: 32rpx;
+}

@@ -1,0 +1,109 @@
+
+.order-list {
+		padding: 30rpx 20rpx;
+}
+.order-item {
+		position: relative;
+		border-radius: 20rpx;
+		background-color: #fff;
+		padding: 14rpx;
+		margin-bottom: 30rpx;
+		border-bottom: 4rpx solid #d6d6d6;
+		border-right: 4rpx solid #d6d6d6;
+}
+.itemTop {
+		position: relative;
+		border-bottom: 2rpx solid #d6d6d6;
+		align-items: center;
+		padding: 30rpx 20rpx;
+}
+.itemTop .id {
+		display: inline-block;
+		font-size: 36rpx;
+}
+.Ended,
+	.progress {
+		position: absolute;
+		right: 18rpx;
+		top: 10rpx;
+		display: inline-block;
+		font-size: 30rpx;
+		font-weight: 700;
+
+		line-height: 80rpx;
+		/* padding: 20rpx; */
+		padding: 0 23rpx;
+
+		border-top-left-radius: 76rpx;
+		border-bottom-left-radius: 76rpx;
+		letter-spacing: 0.1rem;
+}
+.Ended {
+		color: #888;
+}
+.progress {
+		color: #02b42c;
+}
+.itemButtom {
+		padding: 20rpx;
+}
+.itemButtom .itemText {
+		display: block;
+		margin-bottom: 20rpx;
+		font-size: 24rpx;
+		color: #888;
+		letter-spacing: 0.1em;
+}
+.itemButtom .itemContent {
+		margin-bottom: 20rpx;
+		font-size: 24rpx;
+		color: #888;
+		letter-spacing: 0.1em;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		width: 440rpx;
+		height: 64rpx;
+		display: -webkit-box;
+		-webkit-line-clamp: 2;
+		-webkit-box-orient: vertical;
+}
+.itemButtom .itemText:nth-child(3) {
+		display: inline-block;
+		width: 460rpx;
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+}
+.price {
+		position: absolute;
+		top: 132rpx;
+		right: 48rpx;
+		font-size: 48rpx;
+		font-weight: 700;
+		color: red;
+}
+.button {
+		position: absolute;
+		width: 166rpx;
+		height: 72rpx;
+		line-height: 72rpx;
+		text-align: center;
+		border-radius: 48rpx;
+		bottom: 24rpx;
+		right: 26rpx;
+		background-color: #02b42c;
+		color: #fff;
+}
+.contentNull {
+		padding: 72rpx 0;
+		margin-top: 0rpx;
+		text-align: center;
+
+		border-radius: 40rpx;
+}
+.nullText {
+		font-size: 67rpx;
+		font-weight: 700;
+		color: #a8a8a8;
+		margin-top: 56rpx;
+}

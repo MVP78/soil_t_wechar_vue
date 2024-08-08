@@ -1,0 +1,109 @@
+/* 水平间距 */
+/* 水平间距 */
+image {
+  height: 1672rpx;
+}
+.box {
+  position: relative;
+  display: flex;
+  width: 100%;
+  height: auto;
+}
+.EventDetails {
+  position: absolute;
+  left: 224rpx;
+  top: 88rpx;
+  background-color: rgba(229, 247, 233, 0.6);
+  padding: 20rpx;
+  border-radius: 10px;
+}
+.name {
+  font-size: 40rpx;
+  font-weight: 700;
+  margin-bottom: 40rpx;
+  color: #01c22e;
+  letter-spacing: 0.1em;
+}
+.price {
+  font-size: 40rpx;
+  color: red;
+  font-weight: 700;
+  margin-bottom: 40rpx;
+}
+.time {
+  font-size: 28rpx;
+  color: #888;
+}
+.selector {
+  position: absolute;
+  top: 544rpx;
+  left: 32rpx;
+}
+.item {
+  position: relative;
+}
+.item .button {
+  position: absolute;
+  top: -12rpx;
+  right: -200rpx;
+  width: 252rpx;
+  text-align: center;
+  height: 96rpx;
+  line-height: 96rpx;
+  font-size: 36rpx;
+  background-color: rgba(229, 247, 233, 0.5);
+  opacity: 1;
+  color: #01c22e;
+  border-radius: 48rpx;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+}
+.item text {
+  font-size: 40rpx;
+  font-weight: 700;
+}
+.uni-input {
+  display: inline-block;
+  width: 240rpx;
+  height: 72rpx;
+  font-size: 36rpx;
+  font-weight: 700;
+  line-height: 72rpx;
+  color: #01c22e;
+}
+.submitButton {
+  position: absolute;
+  top: 988rpx;
+  left: 206rpx;
+  width: 340rpx;
+  height: 120rpx;
+  line-height: 120rpx;
+  font-size: 48rpx;
+  text-align: center;
+  background-color: #01c22e;
+  color: #fff;
+  border-radius: 32px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+}
+.title {
+  position: absolute;
+  left: 40rpx;
+  top: 72rpx;
+}
+.content {
+  position: absolute;
+  left: 40rpx;
+  top: 16rpx;
+}
+.title text {
+  color: #ff0000;
+  display: inline-block;
+  font-size: 60rpx;
+  font-weight: 700;
+}
+.content text {
+  color: #fff;
+  display: inline-block;
+  font-size: 36rpx;
+}

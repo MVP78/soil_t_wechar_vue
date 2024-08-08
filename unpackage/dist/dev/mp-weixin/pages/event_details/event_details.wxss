@@ -1,0 +1,128 @@
+
+.body {
+		position: relative;
+}
+.banner {
+		margin-top: 20rpx;
+}
+.banner image {
+		width: 100%;
+		border-radius: 48rpx;
+}
+.box1 {
+		padding: 0 20rpx;
+		background-color: #fff;
+}
+.box3 {
+		position: relative;
+		height: 120rpx;
+		line-height: 120rpx;
+		position: fixed;
+		bottom: 0;
+		left: 0;
+		width: 100%;
+
+		padding: 0 20rpx;
+}
+text {
+		font-family: "Microsoft YaHei";
+}
+.box1_1 {
+		margin: 0 10rpx;
+}
+.title text {
+		font-size: 36rpx;
+		font-weight: 700;
+		line-height: 88rpx;
+		letter-spacing: 0.1em;
+}
+.main text {
+		font-size: 28rpx;
+		line-height: 40rpx;
+		color: #9d9d9d;
+
+		letter-spacing: 0.1em;
+}
+.footer {
+		position: relative;
+		margin: 20rpx 0;
+		padding-bottom: 20rpx;
+}
+.time text {
+		color: #01c22e;
+		font-size: 28rpx;
+		letter-spacing: 0.1em;
+}
+.price {
+		position: absolute;
+		top: 0;
+		right: 0;
+		color: red;
+}
+.registration {
+		position: absolute;
+		right: 72rpx;
+		bottom: 20rpx;
+		background-color: #01c22e;
+		text-align: center;
+
+		width: 342rpx;
+		height: 100rpx;
+		line-height: 100rpx;
+		border-radius: 56rpx;
+}
+.registration text {
+
+		font-size: 40rpx;
+		font-weight: 700;
+		color: #fff;
+		letter-spacing: 0.3em;
+}
+.box2_1 {
+		margin: 20rpx;
+		padding-bottom: 120rpx;
+}
+.box2_1_1 {
+		height: 48rpx;
+}
+.box2_1_2 {
+		position: relative;
+		height: 96rpx;
+}
+.box2_1_1,
+	.box2_1_2 {
+		margin-bottom: 20rpx;
+}
+.number,
+	.numberA {
+		display: inline-block;
+		font-size: 32rpx;
+		text-align: center;
+		width: 48rpx;
+		height: 48rpx;
+		line-height: 48rpx;
+		color: #fff;
+		background-color: #01c22e;
+		border-radius: 48rpx;
+}
+.number {
+		position: absolute;
+		top: 50%;
+		left: 22rpx;
+		transform: translate(-50%, -50%);
+}
+.text,
+	.textA {
+		display: inline-block;
+		width: 632rpx;
+		height: 24rpx;
+		line-height: 48rpx;
+		font-size: 32rpx;
+		color: #888;
+}
+.text {
+		margin-left: 68rpx;
+}
+.textA {
+		margin-left: 20rpx;
+}

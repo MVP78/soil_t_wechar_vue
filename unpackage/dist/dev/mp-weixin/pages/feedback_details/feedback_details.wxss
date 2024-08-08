@@ -1,0 +1,43 @@
+
+.body {
+		padding-bottom: 20px;
+}
+text {
+		display: block;
+		font-size: 18px;
+}
+.uni-body {
+		line-height: 26px;
+		letter-spacing: 0.05em;
+}
+.left {
+		font-size: 16px;
+		color: #888;
+		margin: 10px 0;
+		border-top-left-radius: ;
+}
+.right {
+		width: 156px;
+		float: right;
+		color: #000;
+}
+.box {
+		display: inline-block;
+
+		float: right;
+}
+.level1,
+	.level2,
+	.level3 {
+		display: inline-block;
+		margin-left: 10px;
+}
+.level1 {
+		color: #fbc000;
+}
+.level2 {
+		color: #00aaff;
+}
+.level3 {
+		color: #ff5050;
+}

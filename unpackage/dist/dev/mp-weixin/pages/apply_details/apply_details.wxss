@@ -1,0 +1,42 @@
+
+.top {
+		height: 104rpx;
+		background-color: #01d332;
+		margin-top: 20rpx;
+}
+.content {
+		z-index: 10;
+		color: #fff;
+		width: 384rpx;
+		height: 104rpx;
+		font-size: 50rpx;
+		font-weight: 700;
+		margin-left: 366rpx;
+		display: inline-block;
+		background-color: #fbc000;
+		border-top-left-radius: 76rpx;
+		border-bottom-left-radius: 76rpx;
+}
+.title {
+		width: 400rpx;
+		margin-top: 16rpx;
+		margin-left: 102rpx;
+}
+text {
+		display: block;
+		font-size: 36rpx;
+		line-height: 36rpx;
+}
+.left {
+		font-size: 32rpx;
+		color: #888;
+		margin: 20rpx 0;
+}
+.right {
+		float: right;
+		color: #000;
+}
+.price {
+		float: right;
+		color: red;
+}

@@ -1,0 +1,66 @@
+
+.body {
+		padding: 30px 10px 10px 10px;
+}
+.form {
+		position: relative;
+		background-color: #fff;
+		padding-top: 22px;
+		border-bottom: 2px solid #888888;
+		border-right: 2px solid #888888;
+		border-radius: 10px;
+}
+.uni-forms-item {
+		margin: 0 15px;
+		border-bottom: 1px solid #e5e5e5;
+}
+.uni-forms-item:nth-child(3) {
+		border-bottom: 0;
+}
+.uimg {
+		display: block;
+		text-align: center;
+}
+.uimg image {
+		position: relative;
+		width: 200px;
+		height: 200px;
+		border-radius: 5%;
+		display: inline-block;
+}
+.uimg text {
+		display: inline-block;
+		width: 200px;
+		height: 200px;
+		line-height: 180px;
+		font-size: 200px;
+		color: #eaeaea;
+		border: 2px solid #eaeaea;
+		border-radius: 5%;
+}
+.clear-button {
+		position: absolute;
+		top: 5px;
+		right: 5px;
+		font-size: 14px;
+		color: #fff;
+		background-color: #757575;
+		/* 按钮背景颜色，可以根据需要修改 */
+		padding: 6px;
+		border-radius: 50%;
+		cursor: pointer;
+}
+.addButton {
+		position: fixed;
+		bottom: 20rpx;
+		left: 20rpx;
+		width: 704rpx;
+		height: 80rpx;
+		line-height: 80rpx;
+		font-size: 36rpx;
+		text-align: center;
+		background-color: #01c22e;
+		color: #fff;
+		border-radius: 18rpx;
+		letter-spacing: 0.3em;
+}

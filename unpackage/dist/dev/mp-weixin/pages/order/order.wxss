@@ -1,0 +1,90 @@
+
+.contentNull.data-v-93207a4f {
+		padding: 72rpx 0;
+		margin-top: 0rpx;
+		text-align: center;
+
+		border-radius: 40rpx;
+}
+.nullText.data-v-93207a4f {
+		font-size: 67rpx;
+		font-weight: 700;
+		color: #a8a8a8;
+		margin-top: 56rpx;
+}
+text.data-v-93207a4f {
+		font-family: "Microsoft YaHei";
+}
+.tab-bar.data-v-93207a4f {
+
+		background-color: #fff;
+		margin-bottom: 10px;
+}
+.order-list.data-v-93207a4f {
+		padding: 0 10px 20px 10px;
+}
+.title.data-v-93207a4f {
+		font-size: 24rpx;
+		margin-bottom: 20rpx;
+}
+.order-item.data-v-93207a4f {
+		position: relative;
+		border-radius: 10px;
+		background-color: #fff;
+		padding: 10rpx;
+		margin-bottom: 15px;
+		border-bottom: 2px solid #d6d6d6;
+		border-right: 2px solid #d6d6d6;
+}
+.itemTop.data-v-93207a4f {
+		border-bottom: 1px solid #d6d6d6;
+		align-items: center;
+		padding: 10px;
+}
+.itemTop .id.data-v-93207a4f {
+		display: inline-block;
+		font-size: 14px;
+}
+.itemTop .time.data-v-93207a4f {
+		display: inline-block;
+		font-size: 10px;
+		margin-left: 58px;
+		line-height: 19px;
+}
+.itemButtom.data-v-93207a4f {
+		padding: 10px;
+}
+.itemButtom .itemText.data-v-93207a4f {
+		display: block;
+		margin-bottom: 10px;
+		font-size: 12px;
+		color: #888;
+		letter-spacing: 0.1em;
+}
+.itemButtom .itemText.data-v-93207a4f:nth-child(3) {
+		display: inline-block;
+		width: 230px;
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+}
+.price.data-v-93207a4f {
+		position: absolute;
+		top: 63px;
+		right: 29px;
+		font-size: 24px;
+		font-weight: 700;
+		color: red;
+}
+.button.data-v-93207a4f {
+		position: absolute;
+		width: 94px;
+		height: 30px;
+		line-height: 30px;
+		text-align: center;
+		border-radius: 24px;
+		bottom: 18px;
+		right: 10px;
+		background-color: #02b42c;
+		color: #fff;
+}

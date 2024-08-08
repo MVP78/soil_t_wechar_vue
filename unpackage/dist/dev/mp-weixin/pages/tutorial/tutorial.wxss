@@ -1,0 +1,27 @@
+
+.swiper {
+		position: relative;
+		width: 750rpx;
+		height: 1328rpx;
+		text-align: center;
+}
+.swiper-item image {
+		margin: 20rpx 0 10rpx 0;
+		border-radius: 20rpx;
+		width: 636rpx;
+		height: 1400rpx;
+}
+.toSoil {
+		position: fixed;
+		bottom: 20rpx;
+		left: 54rpx;
+		width: 646rpx;
+		height: 80rpx;
+		line-height: 80rpx;
+		font-size: 36rpx;
+		text-align: center;
+		background-color: #01c22e;
+		color: #fff;
+		border-radius: 18rpx;
+		letter-spacing: 0.3em;
+}

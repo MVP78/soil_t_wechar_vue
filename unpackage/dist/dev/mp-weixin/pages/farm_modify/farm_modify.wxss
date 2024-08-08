@@ -1,0 +1,41 @@
+
+.body {
+		padding: 60rpx 20rpx 20rpx 20rpx;
+}
+.form {
+		position: relative;
+		background-color: #fff;
+		padding-top: 44rpx;
+		border-bottom: 4rpx solid #888888;
+		border-right: 4rpx solid #888888;
+		border-radius: 20rpx;
+}
+.uni-forms-item {
+		margin: 0 30rpx;
+		border-bottom: 2px solid #e5e5e5;
+}
+.addButton {
+		position: fixed;
+		bottom: 10px;
+		left: 30rpx;
+		width: 680rpx;
+		height: 40px;
+		line-height: 40px;
+		font-size: 18px;
+		text-align: center;
+		background-color: #01c22e;
+		color: #fff;
+		border-radius: 9px;
+		letter-spacing: 0.3em;
+}
+.a-address {
+		z-index: 10;
+}
+.address image {
+		z-index: 10;
+		width: 30px;
+		height: 30px;
+		position: absolute;
+		bottom: 30px;
+		right: 20px;
+}

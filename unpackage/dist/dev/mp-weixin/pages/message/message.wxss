@@ -1,0 +1,10 @@
+/* 水平间距 */
+/* 水平间距 */
+.body.data-v-4c1b26cf {
+  margin-top: 10px;
+}
+.message.data-v-4c1b26cf {
+  width: 200px;
+  height: 200px;
+  background-color: #fff;
+}

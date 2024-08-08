@@ -1,0 +1,94 @@
+/* 水平间距 */
+/* 水平间距 */
+.container {
+  padding: 0 10px;
+}
+text {
+  font-family: "Microsoft YaHei";
+}
+.top {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 44px;
+  text-align: center;
+  background-color: #fff;
+  border-bottom: 2px solid #757575;
+  border-right: 2px solid #757575;
+  border-radius: 10px;
+  margin: 10px 0;
+}
+.item {
+  position: relative;
+  background-color: #fff;
+  padding: 10rpx 20rpx;
+  border-bottom: 2px solid #757575;
+  border-right: 2px solid #757575;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.item text {
+  font-size: 18px;
+  font-weight: 700;
+}
+.uimg {
+  display: block;
+  text-align: center;
+}
+.uimg text {
+  display: inline-block;
+  width: 310px;
+  height: 200px;
+  line-height: 162px;
+  font-size: 200px;
+  color: #eaeaea;
+  border: 2px solid #eaeaea;
+  border-radius: 14px;
+}
+.uimg image {
+  width: 310px;
+  height: 200px;
+  border-radius: 14px;
+  display: inline-block;
+}
+.clear-button {
+  position: absolute;
+  top: 14px;
+  right: 19px;
+  width: 18px;
+  font-size: 18px;
+  color: #fff;
+  background-color: #a9a4a4;
+  padding: 6px;
+  border-radius: 50%;
+}
+.position {
+  background-color: #fff;
+  padding: 10rpx 20rpx;
+  border-bottom: 2px solid #757575;
+  border-right: 2px solid #757575;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.bottom {
+  margin-top: 10px;
+}
+.bottom text {
+  font-size: 18px;
+  font-weight: 700;
+}
+.page-body {
+  margin-bottom: 10px;
+}
+.box {
+  height: 69px;
+}
+.submitButton {
+  height: 40px;
+  line-height: 40px;
+  font-size: 18px;
+  text-align: center;
+  background-color: #01c22e;
+  color: #fff;
+  border-radius: 9px;
+  letter-spacing: 0.3em;
+}

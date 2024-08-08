@@ -1,0 +1,87 @@
+
+.container {
+		padding: 0 10px;
+}
+text {
+		font-family: "Microsoft YaHei";
+}
+.top {
+		font-size: 16px;
+		font-weight: 700;
+		line-height: 44px;
+		text-align: center;
+		background-color: #fff;
+		border-bottom: 2px solid #757575;
+		border-right: 2px solid #757575;
+		border-radius: 10px;
+		margin: 10px 0;
+}
+.remind {
+		position: relative;
+		background-color: #fff;
+		border-bottom: 2px solid #757575;
+		border-right: 2px solid #757575;
+		border-radius: 10px;
+		margin: 20px 0;
+}
+.remind image {
+		width: 80px;
+		height: 80px;
+		padding: 10px;
+}
+.soilId {
+		color: #01c22e;
+		font-weight: 700;
+}
+.remindText {
+		position: absolute;
+		color: #757575;
+		top: 10px;
+		left: 117px;
+		font-size: 16px;
+		width: 224px;
+		line-height: 28px;
+}
+.box {
+		position: relative;
+		padding-top: 10px;
+		padding-bottom: 20px;
+
+		background-color: #fff;
+		border-bottom: 2px solid #757575;
+		border-right: 2px solid #757575;
+		border-radius: 10px;
+}
+.select {
+		text-align: center;
+		margin: 10px 20px;
+}
+uni-data-select {
+		position: absolute;
+		width: 150px;
+		display: inline-block;
+		right: 22px;
+		top: 19px;
+}
+.item text {
+		font-size: 20px;
+		font-weight: 700;
+		letter-spacing: 0.1em;
+}
+.uni-easyinput__content-input {
+		border-radius: 20px;
+}
+.submitButton {
+		position: fixed;
+		bottom: 20rpx;
+		left: 20rpx;
+		width: 696rpx;
+		height: 80rpx;
+		line-height: 80rpx;
+		font-size: 36rpx;
+		text-align: center;
+		background-color: #01c22e;
+		color: #fff;
+		border-radius: 18rpx;
+		letter-spacing: 0.3em;
+}

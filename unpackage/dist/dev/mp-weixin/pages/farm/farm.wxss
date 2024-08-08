@@ -1,0 +1,79 @@
+
+.container {
+		padding: 10px;
+}
+.contentNull {
+		padding: 72rpx 0;
+		margin-top: 0rpx;
+		text-align: center;
+
+		border-radius: 40rpx;
+}
+.nullText {
+		font-size: 67rpx;
+		font-weight: 700;
+		color: #a8a8a8;
+		margin-top: 56rpx;
+}
+.address-list {
+		width: 100%;
+}
+.address-list .a-address {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		padding: 30rpx 0;
+		background-color: #fff;
+		border-bottom: 2px solid #888888;
+		border-right: 2px solid #888888;
+		border-radius: 10px;
+		margin-bottom: 10px;
+}
+.a-address .left-text {
+		width: 476px;
+		padding-left: 58rpx;
+}
+.a-address .left-text .name-tel {
+		margin-bottom: 20rpx;
+}
+.a-address .left-text .name-tel text {
+		display: block;
+		margin-bottom: 6px;
+}
+.a-address .left-text .address-box {
+		width: 550rpx;
+}
+.a-address .left-text .address-box text {
+		font-size: 24rpx;
+		color: #888888;
+		line-height: 36rpx;
+		display: block;
+		/* 		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis; */
+}
+.a-address .right-edit {
+		width: 45px;
+		padding-top: 6px;
+		margin-right: 22px;
+		height: 100%;
+}
+.a-address .right-edit image {
+		width: 25px;
+		height: 25px;
+		margin-bottom: 16px;
+}
+.addButton {
+		position: fixed;
+		bottom: 20rpx;
+		left: 34rpx;
+		width: 680rpx;
+		height: 80rpx;
+		line-height: 80rpx;
+		font-size: 36rpx;
+		text-align: center;
+		background-color: #01c22e;
+		color: #fff;
+		border-radius: 9px;
+		letter-spacing: 0.3em;
+}

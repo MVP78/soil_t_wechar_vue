@@ -1,0 +1,63 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/message/message",
+    "pages/my/my",
+    "pages/farm/farm",
+    "pages/order/order",
+    "pages/farm_modify/farm_modify",
+    "pages/personal_details/personal_details",
+    "pages/discount_coupon/discount_coupon",
+    "pages/order_details/order_details",
+    "pages/soil/soil",
+    "pages/registration/registration",
+    "pages/sending_soil/sending_soil",
+    "pages/tutorial/tutorial",
+    "pages/apply_coupon/apply_coupon",
+    "pages/notice/notice",
+    "pages/event_details/event_details",
+    "pages/feedback_details/feedback_details",
+    "pages/myApply/myApply",
+    "pages/apply_details/apply_details"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#01c22e",
+    "backgroundColor": "#fff"
+  },
+  "tabBar": {
+    "selectedColor": "#18bc37",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/tabbar/shouye1.png",
+        "selectedIconPath": "static/tabbar/shouye.png"
+      },
+      {
+        "pagePath": "pages/message/message",
+        "text": "消息",
+        "iconPath": "static/tabbar/huodong1.png",
+        "selectedIconPath": "static/tabbar/huodong.png"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的",
+        "iconPath": "static/tabbar/wode1.png",
+        "selectedIconPath": "static/tabbar/wode.png"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "地址信息用于采土定位"
+    }
+  },
+  "requiredPrivateInfos": [
+    "chooseAddress",
+    "chooseLocation",
+    "getLocation"
+  ],
+  "usingComponents": {}
+}

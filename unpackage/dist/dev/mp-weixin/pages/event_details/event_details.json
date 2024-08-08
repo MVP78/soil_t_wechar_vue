@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "活动介绍",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-section": "../../uni_modules/uni-section/components/uni-section/uni-section"
+  }
+}

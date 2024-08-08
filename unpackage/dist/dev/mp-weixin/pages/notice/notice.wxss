@@ -1,0 +1,19 @@
+
+.tab-bar {
+		background-color: #fff;
+		margin: 10px 0;
+}
+.popup-content {
+		position: relative;
+		width: 330px;
+		height: 300px;
+}
+.close {
+		position: absolute;
+		display: inline-block;
+		left: 114px;
+		bottom: 10px;
+		width: 100px;
+		height: 40px;
+		line-height: 40px;
+}

@@ -1,0 +1,109 @@
+
+.top {
+		height: 104rpx;
+		background-color: #01d332;
+		margin-top: 20rpx;
+}
+.content {
+		z-index: 10;
+		color: #fff;
+		width: 384rpx;
+		height: 104rpx;
+		font-size: 50rpx;
+		font-weight: 700;
+		margin-left: 366rpx;
+		display: inline-block;
+		background-color: #fbc000;
+		border-top-left-radius: 76rpx;
+		border-bottom-left-radius: 76rpx;
+}
+.title {
+		width: 400rpx;
+		margin-top: 16rpx;
+		margin-left: 102rpx;
+}
+text {
+		display: block;
+		font-size: 36rpx;
+		line-height: 36rpx;
+}
+.left {
+		font-size: 32rpx;
+		color: #888;
+		margin: 20rpx 0;
+}
+.right {
+		float: right;
+		color: #000;
+}
+.price {
+		float: right;
+		color: red;
+}
+.address {
+		float: right;
+		color: #888;
+		width: 332rpx;
+}
+.img image {
+		width: 608rpx;
+		display: inline-block;
+		border-radius: 24rpx;
+}
+.soilAddress {
+		vertical-align: middle;
+}
+.soilAddress image {
+		vertical-align: middle;
+		width: 56rpx;
+		height: 56rpx;
+		margin-right: 12rpx;
+}
+.address text {
+		float: right;
+		font-size: 33rpx
+}
+.button {
+		padding: 20rpx;
+}
+.buttonOne,
+	.buttonTwo {
+		height: 80rpx;
+		line-height: 80rpx;
+		font-size: 36rpx;
+		text-align: center;
+		background-color: #01c22e;
+		color: #fff;
+		border-radius: 18rpx;
+		letter-spacing: 0.3em;
+		margin: 28rpx 8rpx;
+}
+.buttonOne {
+		background-color: #01c22e;
+}
+.buttonTwo {
+		background-color: #fbc000;
+}
+.popup-content {
+		position: relative;
+		padding-bottom: 120rpx;
+		padding-top: 40rpx;
+}
+.popup-content .uni-card {
+		width: 580rpx;
+}
+.close {
+		position: absolute;
+		display: inline-block;
+		left: 260rpx;
+		bottom: 20rpx;
+		width: 200rpx;
+		height: 80rpx;
+		line-height: 80rpx;
+}
+.item {
+		display: inline-block;
+		width: 364rpx;
+		margin-left: 8rpx;
+		margin-bottom: 20rpx;
+}
