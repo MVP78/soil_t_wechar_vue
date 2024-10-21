@@ -10,7 +10,7 @@
 
 ## 目标用户
 
-该用户的目标用户为农户，农户希望能够通过科学的土壤分析和配方施肥来提高农作物的产量和质量。农户对于技术的要求不高，他们希望使用简单直观的界面完成下单、寄送土壤样品、查看报告和接受专家建议的操作。
+该应用的目标用户为农户，农户希望能够通过科学的土壤分析和配方施肥来提高农作物的产量和质量。农户对于技术的要求不高，他们希望使用简单直观的界面完成下单、寄送土壤样品、查看报告和接受专家建议的操作。
 
 ## 系统功能
 
@@ -52,9 +52,9 @@ vue、uniapp、uni-ui组件库
 
 <img src="./static\readme\nongchang.png" alt="nongchang" style="zoom:50%;" />
 
-<img src="./soil_t_wechar_vue\static\readme\wode.png" alt="wode" style="zoom:50%;" />
+<img src="./static\readme\wode.png" alt="wode" style="zoom:50%;" />
 
-<img src="./soil_t_wechar_vue\static\readme\youhuiquan2.png" alt="youhuiquan2" style="zoom:50%;" />
+<img src="./static\readme\youhuiquan2.png" alt="youhuiquan2" style="zoom:50%;" />
 
-<img src="./soil_t_wechar_vue\static\readme\dindanliebiao.png"  />
+<img src="./static\readme\dindanliebiao.png"  />
 
