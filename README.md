@@ -42,9 +42,9 @@ vue、uniapp、uni-ui组件库
 
 <img src="./static\readme\nongchang.png" alt="nongchang" style="zoom:50%;" />
 
-<img src="./soil_t_wechar_vue\static\readme\wode.png" alt="wode" style="zoom:50%;" />
+<img src="./static\readme\wode.png" alt="wode" style="zoom:50%;" />
 
-<img src="./soil_t_wechar_vue\static\readme\youhuiquan2.png" alt="youhuiquan2" style="zoom:50%;" />
+<img src="./static\readme\youhuiquan2.png" alt="youhuiquan2" style="zoom:50%;" />
 
-<img src="./soil_t_wechar_vue\static\readme\dindanliebiao.png"  />
+<img src="./static\readme\dindanliebiao.png"  />
 
