@@ -24,6 +24,8 @@ vue、uniapp、uni-ui组件库
 
 安装依赖：npm install
 
+运行到微信开发者工具
+
 ## 项目截图
 
 <img src="./static\readme\shouye.png" style="zoom:50%;" />
@@ -40,13 +42,9 @@ vue、uniapp、uni-ui组件库
 
 <img src="./static\readme\nongchang.png" alt="nongchang" style="zoom:50%;" />
 
+<img src="./soil_t_wechar_vue\static\readme\wode.png" alt="wode" style="zoom:50%;" />
 
+<img src="./soil_t_wechar_vue\static\readme\youhuiquan2.png" alt="youhuiquan2" style="zoom:50%;" />
 
-<img src="D:\下载\测试\soil_t_wechar_vue\static\readme\wode.png" alt="wode" style="zoom:50%;" />
-
-<img src="D:\下载\测试\soil_t_wechar_vue\static\readme\youhuiquan2.png" alt="youhuiquan2" style="zoom:50%;" />
-
-
-
-<img src="D:\下载\测试\soil_t_wechar_vue\static\readme\dindanliebiao.png"  />
+<img src="./soil_t_wechar_vue\static\readme\dindanliebiao.png"  />
 
