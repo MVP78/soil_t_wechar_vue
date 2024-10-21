@@ -16,11 +16,21 @@
 
 农户注册登录、查看采土教程、采土报名、采土打卡登记、登记寄土情况、订单管理、农场管理、优惠券活动申请、查看优惠券情况、查看消息等
 
+## 系统流程
+
+<img src="./static\readme\liucheng.png" alt="liucheng"  />
+
+## E-R图
+
+<img src="./static\readme\E-R.png" alt="liucheng"  />
+
 ## 使用技术
 
 vue、uniapp、uni-ui组件库
 
 ## 部署运行
+
+通过Hbuilder X打开项目
 
 安装依赖：npm install
 
